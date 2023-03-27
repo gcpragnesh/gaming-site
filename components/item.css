@@ -1,0 +1,17 @@
+.card{
+    width: 300px;
+    box-sizing: border-box;
+    border: 2px solid red;
+    margin: 10px;
+}
+.container{
+    display: flex;
+    float: left;
+}
+.card-title{
+    font-size: x-large;
+    font-weight: bold;
+}
+.card-footer{
+    padding: 10px;
+}

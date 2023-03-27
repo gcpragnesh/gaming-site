@@ -1,0 +1,20 @@
+.navbar {
+    height: 75px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;  
+    background-color: blueviolet;   
+}
+.log{
+    font-size: 30px;
+    font-weight: bold;
+    color:whitesmoke;
+    margin-top: 15px;
+    margin-right: 900px;  
+}
+.fa-shopping-cart{
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
